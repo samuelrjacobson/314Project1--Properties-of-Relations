@@ -1,0 +1,4 @@
+Reflexive - no
+Antireflexive - no
+Symmetric - no
+Antisymmetric - yes
